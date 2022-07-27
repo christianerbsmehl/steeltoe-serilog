@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net6App", "Net6App\Net6App.csproj", "{3498A353-97A1-45DF-873A-219D81AB1242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCore31App", "NetCore31App\NetCore31App.csproj", "{6331B265-E9DE-468E-9D6C-2CFABE547ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3498A353-97A1-45DF-873A-219D81AB1242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3498A353-97A1-45DF-873A-219D81AB1242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3498A353-97A1-45DF-873A-219D81AB1242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3498A353-97A1-45DF-873A-219D81AB1242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6331B265-E9DE-468E-9D6C-2CFABE547ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6331B265-E9DE-468E-9D6C-2CFABE547ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6331B265-E9DE-468E-9D6C-2CFABE547ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6331B265-E9DE-468E-9D6C-2CFABE547ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CBDF8FF-4350-4077-910C-46B7C2E24B53}
+	EndGlobalSection
+EndGlobal

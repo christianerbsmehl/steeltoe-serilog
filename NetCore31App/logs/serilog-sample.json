@@ -1,0 +1,12 @@
+{"@t":"2022-07-27T06:40:09.9335055Z","@mt":"Now listening on: {address}","address":"https://localhost:5001","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:40:09.9601055Z","@mt":"Now listening on: {address}","address":"http://localhost:5000","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:40:09.9638689Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:40:09.9672847Z","@mt":"Hosting environment: {envName}","envName":"Development","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:40:09.9731339Z","@mt":"Content root path: {contentRoot}","contentRoot":"D:\\DEV\\workspace\\serilog-sample\\SerilogSample\\NetCore31App","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:40:10.7702835Z","@mt":"Log should have a {value} property which value is 'value'.","value":"value","SourceContext":"TestLogger","Scope":["MyScope"],"RequestId":"0HMJFJBD30JOU:00000001","RequestPath":"/log","SpanId":"|9e90a3a0-47e767dbe7dd28df.","TraceId":"9e90a3a0-47e767dbe7dd28df","ParentId":"","Application":"MyApplication"}
+{"@t":"2022-07-27T06:41:33.6477888Z","@mt":"Now listening on: https://localhost:5001","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:41:34.2929789Z","@mt":"Log should have a value property which value is 'value'.","SourceContext":"TestLogger","RequestId":"0HMJFJC5UOU34:00000001","RequestPath":"/log","SpanId":"|f290ea75-462053d302696173.","TraceId":"f290ea75-462053d302696173","ParentId":"","Scope":["MyScope"],"Application":"MyApplication"}
+{"@t":"2022-07-27T06:41:39.8186665Z","@mt":"Now listening on: http://localhost:5000","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:41:39.8203967Z","@mt":"Application started. Press Ctrl+C to shut down.","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:41:39.8219442Z","@mt":"Hosting environment: Development","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}
+{"@t":"2022-07-27T06:41:39.8233276Z","@mt":"Content root path: D:\\DEV\\workspace\\serilog-sample\\SerilogSample\\NetCore31App","SourceContext":"Microsoft.Hosting.Lifetime","Application":"MyApplication"}

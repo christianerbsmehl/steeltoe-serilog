@@ -1,0 +1,2 @@
+{"@t":"2022-07-27T06:47:51.8714481Z","@mt":"Log should have a value property which value is 'value'.","SourceContext":"TestLogger","RequestId":"0HMJFJFMGJECV:00000001","RequestPath":"/log","ConnectionId":"0HMJFJFMGJECV","Scope":["MyScope"],"Application":"MyApplication"}
+{"@t":"2022-07-27T06:48:30.0176676Z","@mt":"Log should have a {value} property which value is 'value'.","value":"value","SourceContext":"TestLogger","Scope":["MyScope"],"RequestId":"0HMJFJG1S4BTS:00000001","RequestPath":"/log","ConnectionId":"0HMJFJG1S4BTS","Application":"MyApplication"}
